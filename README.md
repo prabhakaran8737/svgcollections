@@ -3,7 +3,7 @@
 The object of SVG collections is to give access to all the SVGs that are created and used by [COme Lets Draw], a [Imirisoft] Product. Feel free to use it and contribute with your SVGs.
 
 ## SVG List
-1. [Jerry]{:target="_blank"}
+1. [Jerry]
 2. [Spider man]
 3. [Batman]
 4. [Superman]
