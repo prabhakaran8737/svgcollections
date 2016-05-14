@@ -1,6 +1,6 @@
 # SVG Collections
 
-The object of SVG collections is to give access to all the SVGs that are created and used by [COme Lets Draw], a [Imirisoft] Product. Feel free to use it and contribute with your SVGs.
+The object of SVG collections is to give access to all the SVGs that are created and used in [COme Lets Draw], a [Imirisoft] Product. Feel free to use it and contribute with your SVGs.
 
 ## SVG List
 1. [Jerry]
