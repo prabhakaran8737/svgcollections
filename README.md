@@ -3,7 +3,7 @@
 The object of SVG collections is to give access to all the SVGs that are created and used by [COme Lets Draw], a [Imirisoft] Product. Feel free to use it and contribute with your SVGs.
 
 ## SVG List
-1. [Jerry]
+1. [Jerry]{:target="_blank"}
 2. [Spider man]
 3. [Batman]
 4. [Superman]
@@ -35,7 +35,7 @@ The object of SVG collections is to give access to all the SVGs that are created
 1. SVGs that educate kids, children in funny way
 2. Fine tune quality of existing SVGs or create high quality SVGs
 
-[COme Lets Draw]: <http://www.comeletsdraw.com/>{:target="_blank"}
+[COme Lets Draw]: <http://www.comeletsdraw.com/>
 [Imirisoft]: <http://www.imirisoft.com/>
 [Jerry]: <https://rawgit.com/imirisoft/svgcollections/master/svgs/img01.svg>
 [Spider man]: <https://rawgit.com/imirisoft/svgcollections/master/svgs/img02.svg>
